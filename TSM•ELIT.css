@@ -1,0 +1,32 @@
+body {
+    background-color:black;
+}
+
+.img-1 {
+    height:400px;
+    width:400px;
+    justify-content:center;
+    justify-content:center;
+}
+
+.navbar-1 {
+    justify-content:center;
+    font-family:italic,verdana,serif;
+    text-align:center;
+    font-weight:5px;
+    color:white;
+}
+
+.navbar-2 {
+    text-transform:lowercase;
+    text-align:center;
+    color:white;
+}
+
+.navbar-3 {
+    color:green;
+}
+.navbar-3 strong {
+    color:red;
+    font-family:courier;
+}
